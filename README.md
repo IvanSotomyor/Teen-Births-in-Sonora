@@ -11,3 +11,6 @@ In Sonora, substantial public data is available on births; however, adolescent b
 ### Preview of Second Tab: Family Planning
 
 ![Preview Planeacion Familiar](https://github.com/user-attachments/assets/69f5c61e-b6e4-4041-a700-c90e07e42de2)
+
+
+This dashboard was developed to participate in the first Datathon, held on November 2, 2024, in Hermosillo, Sonora, where it earned third place in the competition.
